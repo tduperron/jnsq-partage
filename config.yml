@@ -1,0 +1,5 @@
+baseURL: "localhost"
+languageCode: "fr-fr"
+title: "JNSQ Partagé"
+
+theme: "hugo-theme-bootstrap4-blog"

@@ -1,0 +1,9 @@
+---
+title: "L'art de motive part 1"
+date: 2019-09-09T11:58:46+02:00
+draft: false
+categories: ["prez"]
+author: Guillaume Blondeau
+---
+
+L'art de motive la théorie

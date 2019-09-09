@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video on JNSQ Partagé</title>
+    <link>localhost/categories/video/</link>
+    <description>Recent content in Video on JNSQ Partagé</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 29 Aug 2019 17:20:36 +0200</lastBuildDate>
+    
+	<atom:link href="localhost/categories/video/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Du Blue-Green au Canary-Release avec Kubernetes</title>
+      <link>localhost/posts/canary-release/</link>
+      <pubDate>Thu, 29 Aug 2019 17:20:36 +0200</pubDate>
+      
+      <guid>localhost/posts/canary-release/</guid>
+      <description>Avec Kubernetes intégré à son infrastructure, le rolling update est la façon la plus simple de mettre à jour une application. Mais d&amp;#8217;autres types de mise à jour sont également possibles : le Blue Green qui permet de passer à une nouvelle version avec juste un basculement de flux, mais également le Canary Release qui peut faire rediriger la charge de ses applications graduellement entre ancienne et nouvelle version dans une optique de &#39;Zero Downtime&#39;.</description>
+    </item>
+    
+  </channel>
+</rss>

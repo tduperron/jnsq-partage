@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<meta property="og:title" content="Du Blue-Green au Canary-Release avec Kubernetes" />
+<meta property="og:description" content="Avec Kubernetes intégré à son infrastructure, le rolling update est la façon la plus simple de mettre à jour une application. Mais d&#8217;autres types de mise à jour sont également possibles : le Blue Green qui permet de passer à une nouvelle version avec juste un basculement de flux, mais également le Canary Release qui peut faire rediriger la charge de ses applications graduellement entre ancienne et nouvelle version dans une optique de &#39;Zero Downtime&#39;." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="localhost/posts/canary-release/" />
+
+
+
+<meta property="article:published_time" content="2019-08-29T17:20:36&#43;02:00"/>
+
+<meta property="article:modified_time" content="2019-08-29T17:20:36&#43;02:00"/>
+
+
+
+
+
+
+
+
+
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Du Blue-Green au Canary-Release avec Kubernetes"/>
+<meta name="twitter:description" content="Avec Kubernetes intégré à son infrastructure, le rolling update est la façon la plus simple de mettre à jour une application. Mais d&#8217;autres types de mise à jour sont également possibles : le Blue Green qui permet de passer à une nouvelle version avec juste un basculement de flux, mais également le Canary Release qui peut faire rediriger la charge de ses applications graduellement entre ancienne et nouvelle version dans une optique de &#39;Zero Downtime&#39;."/>
+
+
+
+    
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Du Blue-Green au Canary-Release avec Kubernetes",
+  "url": "localhost/posts/canary-release/",
+  "wordCount": "105",
+  "datePublished": 2019-08-29T17:20:36&#43;02:00,
+  "dateModified": 2019-08-29T17:20:36&#43;02:00,
+  "author": {
+    "@type": "Person",
+    "name": ""
+  },
+  "keywords": "video, Kubernetes, Traefik"
+}
+</script>
+
+
+
+    <link rel="canonical" href="localhost/posts/canary-release/">
+
+    <title>Du Blue-Green au Canary-Release avec Kubernetes | JNSQ Partagé</title>
+
+    
+    <!-- combined, minified CSS -->
+    <link href="localhost/css/style.css" rel="stylesheet" integrity="sha384-G5B34w7DFTumWTswxYzTX7NWfbvQEg1HbFFEg6ItN03uTAAoS2qkPS/fu3LhuuSA" crossorigin="anonymous">
+    
+
+    <!-- RSS 2.0 feed -->
+    
+
+    
+
+    
+
+  </head>
+
+  <body>
+
+    
+    <div class="blog-masthead">
+      <div class="container">
+        <nav class="nav blog-nav">
+          <a class="nav-link " href="localhost/localhost">Home</a>
+        </nav>
+      </div>
+    </div>
+    
+
+    
+    
+    <header class="blog-header">
+      <div class="container">
+        <h1 class="blog-title" dir="auto"><a href="/" rel="home">JNSQ Partagé</a></h1>
+        
+      </div>
+    </header>
+    
+    
+
+    
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-8 blog-main">
+
+          
+
+
+<article class="blog-post">
+  <header>
+    <h2 class="blog-post-title" dir="auto"><a href="localhost/posts/canary-release/">Du Blue-Green au Canary-Release avec Kubernetes</a></h2>
+    <p class="blog-post-meta"><time datetime="2019-08-29T17:20:36&#43;02:00">Thu Aug 29, 2019</time> by  in 
+<i class="fa fa-folder" aria-hidden="true"></i>&nbsp;<a href="/localhost/categories/video" rel="category tag">video</a>
+
+
+<i class="fa fa-tag" aria-hidden="true"></i>&nbsp;<a href="/localhost/tags/kubernetes" rel="tag">Kubernetes</a>, <a href="/localhost/tags/traefik" rel="tag">Traefik</a>
+
+</p>
+  </header>
+  <div class="paragraph">
+<p>Avec Kubernetes intégré à son infrastructure,
+le rolling update est la façon la plus simple de mettre à jour une application.
+Mais d&#8217;autres types de mise à jour sont également possibles :
+le Blue Green qui permet de passer à une nouvelle version avec juste un basculement de flux,
+mais également le Canary Release qui peut faire rediriger la charge de ses applications graduellement entre ancienne et nouvelle version dans une optique de 'Zero Downtime'.
+Nous ferons ainsi, un tour des différents patterns de déploiement que l’on peut utiliser dans les cloud native applications et une démonstration de chacun des patterns sur Kubernetes et Traefik.</p>
+</div>
+
+
+  
+
+  
+  <hr>
+  <footer>
+
+  
+    <section>
+    <h4>Share</h4>
+    <nav class="nav sharing-icons">
+      <a class="nav-item" href="https://www.facebook.com/sharer/sharer.php?u=localhost%2fposts%2fcanary-release%2f" title="Share on Facebook"><span class="fa fa-facebook fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=localhost%2fposts%2fcanary-release%2f" title="Share on LinkedIn"><span class="fa fa-linkedin fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://twitter.com/intent/tweet?url=localhost%2fposts%2fcanary-release%2f&amp;text=Du%20Blue-Green%20au%20Canary-Release%20avec%20Kubernetes" title="Tweet this"><span class="fa fa-twitter fa-2x"></span></a>
+    </nav>
+  </section>
+
+  
+
+  
+  </footer>
+  
+
+</article> 
+
+
+
+        </div> <!-- /.blog-main -->
+
+        <aside class="col-sm-3 ml-auto blog-sidebar">
+  
+
+  
+
+  
+</aside>
+
+
+      </div> <!-- /.row -->
+    </div> <!-- /.container -->
+    
+
+    
+    <footer class="blog-footer">
+      <p dir="auto">
+      
+      Blog template created by <a href="https://twitter.com/mdo">@mdo</a>, ported to Hugo by <a href='https://twitter.com/mralanorth'>@mralanorth</a>.
+      
+      </p>
+      <p>
+      <a href="#">Back to top</a>
+      </p>
+    </footer>
+    
+
+  </body>
+
+</html>

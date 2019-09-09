@@ -1,0 +1,14 @@
+---
+title: "Building smarter apps with Machine Learning, from magic to reality"
+date: 2019-08-30T17:20:36+02:00
+draft: false
+tags: ["ML"]
+categories: ["video"]
+author: Laurent Picard
+---
+
+Any sufficiently advanced technology is indistinguishable from magic (Arthur C Clarke). Well, Machine Learning can look like magic to most of us, but you don’t need to be a data scientist or an ML researcher to develop with ML. Let’s check it out!
+
+What about making your app smarter without any knowledge in AI? With pre-trained models and a few lines of code, Machine Learning APIs can analyze your data. Moreover, AutoML techniques can now help in getting even more specific insights tailored to your needs. In this session, you’ll see how to transform or extract information from text, image, audio & video with the latest ML APIs, how to train an AutoML custom model, and you’ll be an active player of a live demo. Don’t put your smartphone in airplane mode!
+
+link:https://www.youtube.com/watch?v=Iqo6Mbnb4Ho[]
