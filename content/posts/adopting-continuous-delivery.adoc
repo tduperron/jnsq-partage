@@ -3,7 +3,7 @@ title: "Adopting Continuous Delivery"
 date: 2019-09-09T17:20:36+02:00
 draft: false
 tags: ["Continuous Delivery", "Lean"]
-categories: ["video"]
+categories: ["video-done"]
 author: Jez Humble
 ---
 
@@ -12,3 +12,5 @@ How to reduce the risk of releases through implementing continuous integration a
 How to implement these patterns even in complex, enterprise environments? Find out in Jez Humble's talk at the Lean IT Summit 2017.
 
 Jez is the CTO of DevOps Research & Assessment LLC and co-author of "Continuous Delivery" and "The DevOps Handbook".
+
+link:https://www.youtube.com/watch?v=6DeWOrmvhRM[]

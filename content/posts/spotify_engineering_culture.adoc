@@ -1,0 +1,13 @@
+---
+title: "Spotify Engineering Culture - part 1 and 2"
+date: 2019-09-23T08:20:36+02:00
+draft: false
+tags: ["Continuous Delivery", "Lean"]
+categories: ["video"]
+author: Adnan Jaffery
+---
+Spotify explique dans cette vidéo l’évolution de son fonctionnement interne pour atteindre la Culture Agile
+
+link:https://www.youtube.com/watch?v=Yvfz4HGtoPc[]
+
+link:https://www.youtube.com/watch?v=vOt4BbWLWQw[]

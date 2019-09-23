@@ -3,7 +3,7 @@ title: "AutoML + ML APIs = machine learning for all developers"
 date: 2019-08-30T17:20:36+02:00
 draft: false
 tags: ["ML", "AutoML"]
-categories: ["video"]
+categories: ["video-done"]
 author: Laurent Picard
 ---
 
