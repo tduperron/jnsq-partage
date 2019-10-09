@@ -1,0 +1,13 @@
+---
+title: "Clean Code with Java8 4 years later"
+date: 2019-10-01T08:20:36+02:00
+draft: false
+tags: ["Java8", "Clean code"]
+categories: ["video"]
+author: V. Rentea
+---
+You have a bazooka. Do you use it to show off or to clean up your code?
+
+We all use Java8 Streams and lambdas. But is your code cleaner and easier to maintain than in Java7? Come and see what I’ve learned about what Clean Lambdas and Streams mean, after teaching them and using them on my projects. The idioms we’ve found most useful, new Functional design patterns, best practices and anti-patterns.
+
+link:https://www.youtube.com/watch?v=-WInMyeAqTE[]
