@@ -3,7 +3,7 @@ title: "Rééduquez notre cerveau pour sortir de la crise écologique"
 date: 2019-09-24T12:00:59+02:00
 draft: false
 tags: ["TEDxParisSalon"]
-categories: ["video"]
+categories: ["video-done"]
 author: Sébastien BOHLER
 ---
 

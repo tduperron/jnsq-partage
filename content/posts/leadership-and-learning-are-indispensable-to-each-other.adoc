@@ -2,7 +2,7 @@
 title: "Leadership and learning are indispensable to each other"
 date: 2019-10-16T11:58:46+02:00
 draft: false
-categories: ["prez"]
+categories: ["prez-done"]
 author: Pierre Reliquet
 ---
 
