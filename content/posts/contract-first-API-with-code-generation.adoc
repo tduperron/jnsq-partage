@@ -1,0 +1,10 @@
+---
+title: "Contract first API with code generation"
+date: 2019-11-25T08:20:36+02:00
+draft: false
+tags: ["OpenApi", "OpenApi-generator"]
+categories: ["prez"]
+author: Thibault Duperron
+---
+
+Server and client generation from OpenApi spec.
