@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TEDxParisSalon on JNSQ Partagé</title>
+    <link>https://tduperron.github.io/jnsq-partage/tags/tedxparissalon/</link>
+    <description>Recent content in TEDxParisSalon on JNSQ Partagé</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 24 Sep 2019 12:00:59 +0200</lastBuildDate>
+    
+	<atom:link href="https://tduperron.github.io/jnsq-partage/tags/tedxparissalon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rééduquez notre cerveau pour sortir de la crise écologique</title>
+      <link>https://tduperron.github.io/jnsq-partage/posts/reeduquez-notre-cerveau-pour-sortir-de-la-crise-ecologique/</link>
+      <pubDate>Tue, 24 Sep 2019 12:00:59 +0200</pubDate>
+      
+      <guid>https://tduperron.github.io/jnsq-partage/posts/reeduquez-notre-cerveau-pour-sortir-de-la-crise-ecologique/</guid>
+      <description>Sébastien Bohler est ingénieur, ancien élève de l’Ecole Polytechnique, et docteur en neurosciences, titulaire d’une thèse de l’université Pierre-et-Marie-Curie, préparée dans le laboratoire de Jean-Pierre Changeaux à l’Institut Pasteur, sur le fonctionnement des récepteurs neuronaux impliqués dans la dépendance à la nicotine.
+ En 2002, il participe à la création de la revue Cerveau &amp;amp; Psycho, consacrée aux neurosciences et à la psychologie, avant d’analyser successivement par ses chroniques les ressorts du cerveau humain dans des médias comme Arrêt sur Images, La Tête au Carré ou 28 minutes sur Arte.</description>
+    </item>
+    
+  </channel>
+</rss>

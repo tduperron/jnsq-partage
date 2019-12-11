@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>video on JNSQ Partagé</title>
+    <link>https://tduperron.github.io/jnsq-partage/categories/video/</link>
+    <description>Recent content in video on JNSQ Partagé</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 09 Sep 2019 12:00:59 +0200</lastBuildDate>
+    
+	<atom:link href="https://tduperron.github.io/jnsq-partage/categories/video/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mob Programming : je ne développerai plus jamais seul</title>
+      <link>https://tduperron.github.io/jnsq-partage/posts/mob-programming/</link>
+      <pubDate>Mon, 09 Sep 2019 12:00:59 +0200</pubDate>
+      
+      <guid>https://tduperron.github.io/jnsq-partage/posts/mob-programming/</guid>
+      <description>Chez Fluo, la première fois que nous avons entendu parler de mob programming nous étions un peu perplexes.
+ Dans une startup comme la notre, 5/6 développeurs à se partager un clavier ça semblait très curieux.
+ Un beau matin, histoire de débloquer deux de nos collègues coincés sur un dev, nous avons tout de même décidé d&amp;#8217;essayer.
+ Avec un rétro, nous avons alors projeté le code sur un écran.</description>
+    </item>
+    
+    <item>
+      <title>Matinale Accelerate : la vitesse conditionne l&#39;excellence</title>
+      <link>https://tduperron.github.io/jnsq-partage/posts/matinale_accelerate_la_vitesse_conditionne_l_excellence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tduperron.github.io/jnsq-partage/posts/matinale_accelerate_la_vitesse_conditionne_l_excellence/</guid>
+      <description>Pendant plusieurs années, une étude sur la performance des entreprises a été menée. Résultat ? L&amp;#8217;étude &#34;Accelerate&#34; démontre que la stabilité et la vitesse dans le Delivery Logiciel sont deux qualités qui se renforcent mutuellement au lieu de s&amp;#8217;opposer. Découvrez comment et pourquoi .
+ </description>
+    </item>
+    
+  </channel>
+</rss>

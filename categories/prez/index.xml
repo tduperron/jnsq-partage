@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>prez on JNSQ Partagé</title>
+    <link>https://tduperron.github.io/jnsq-partage/categories/prez/</link>
+    <description>Recent content in prez on JNSQ Partagé</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 27 Nov 2019 11:58:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://tduperron.github.io/jnsq-partage/categories/prez/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rhétorique &amp; Eloquence: un devoir citoyen?</title>
+      <link>https://tduperron.github.io/jnsq-partage/posts/rhetorique_eloquence_un_devoir_citoyen/</link>
+      <pubDate>Wed, 27 Nov 2019 11:58:46 +0200</pubDate>
+      
+      <guid>https://tduperron.github.io/jnsq-partage/posts/rhetorique_eloquence_un_devoir_citoyen/</guid>
+      <description>Rhétorique &amp;amp; Eloquence: un devoir citoyen?
+ </description>
+    </item>
+    
+    <item>
+      <title>Contract first API with code generation</title>
+      <link>https://tduperron.github.io/jnsq-partage/posts/contract-first-api-with-code-generation/</link>
+      <pubDate>Mon, 25 Nov 2019 08:20:36 +0200</pubDate>
+      
+      <guid>https://tduperron.github.io/jnsq-partage/posts/contract-first-api-with-code-generation/</guid>
+      <description>Server and client generation from OpenApi spec.
+ </description>
+    </item>
+    
+    <item>
+      <title>Meecrowave</title>
+      <link>https://tduperron.github.io/jnsq-partage/posts/meecrowave/</link>
+      <pubDate>Thu, 14 Nov 2019 08:20:36 +0200</pubDate>
+      
+      <guid>https://tduperron.github.io/jnsq-partage/posts/meecrowave/</guid>
+      <description> Meecrowave   the customizable server
+   </description>
+    </item>
+    
+    <item>
+      <title>Unit toolkit</title>
+      <link>https://tduperron.github.io/jnsq-partage/posts/unit-toolkit/</link>
+      <pubDate>Wed, 09 Oct 2019 08:20:36 +0200</pubDate>
+      
+      <guid>https://tduperron.github.io/jnsq-partage/posts/unit-toolkit/</guid>
+      <description>From junit 4 to junit 5 and more
+ </description>
+    </item>
+    
+  </channel>
+</rss>

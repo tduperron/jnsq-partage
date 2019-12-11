@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lean on JNSQ Partagé</title>
+    <link>https://tduperron.github.io/jnsq-partage/tags/lean/</link>
+    <description>Recent content in Lean on JNSQ Partagé</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 23 Sep 2019 08:20:36 +0200</lastBuildDate>
+    
+	<atom:link href="https://tduperron.github.io/jnsq-partage/tags/lean/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Spotify Engineering Culture - part 1 and 2</title>
+      <link>https://tduperron.github.io/jnsq-partage/posts/spotify-engineering-culture/</link>
+      <pubDate>Mon, 23 Sep 2019 08:20:36 +0200</pubDate>
+      
+      <guid>https://tduperron.github.io/jnsq-partage/posts/spotify-engineering-culture/</guid>
+      <description>Spotify explique dans cette vidéo l’évolution de son fonctionnement interne pour atteindre la Culture Agile
+ https://www.youtube.com/watch?v=Yvfz4HGtoPc
+ https://www.youtube.com/watch?v=vOt4BbWLWQw
+ </description>
+    </item>
+    
+    <item>
+      <title>Adopting Continuous Delivery</title>
+      <link>https://tduperron.github.io/jnsq-partage/posts/adopting-continuous-delivery/</link>
+      <pubDate>Mon, 09 Sep 2019 17:20:36 +0200</pubDate>
+      
+      <guid>https://tduperron.github.io/jnsq-partage/posts/adopting-continuous-delivery/</guid>
+      <description>How to reduce the risk of releases through implementing continuous integration and test and deployment automation?
+ How to implement these patterns even in complex, enterprise environments? Find out in Jez Humble&amp;#8217;s talk at the Lean IT Summit 2017.
+ Jez is the CTO of DevOps Research &amp;amp; Assessment LLC and co-author of &#34;Continuous Delivery&#34; and &#34;The DevOps Handbook&#34;.
+ https://www.youtube.com/watch?v=6DeWOrmvhRM
+ </description>
+    </item>
+    
+  </channel>
+</rss>

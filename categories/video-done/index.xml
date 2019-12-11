@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>video-done on JNSQ Partagé</title>
+    <link>https://tduperron.github.io/jnsq-partage/categories/video-done/</link>
+    <description>Recent content in video-done on JNSQ Partagé</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 01 Oct 2019 08:20:36 +0200</lastBuildDate>
+    
+	<atom:link href="https://tduperron.github.io/jnsq-partage/categories/video-done/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Clean Code with Java8 4 years later</title>
+      <link>https://tduperron.github.io/jnsq-partage/posts/lean-code-with-java8-4-years-later/</link>
+      <pubDate>Tue, 01 Oct 2019 08:20:36 +0200</pubDate>
+      
+      <guid>https://tduperron.github.io/jnsq-partage/posts/lean-code-with-java8-4-years-later/</guid>
+      <description>You have a bazooka. Do you use it to show off or to clean up your code?
+ We all use Java8 Streams and lambdas. But is your code cleaner and easier to maintain than in Java7? Come and see what I’ve learned about what Clean Lambdas and Streams mean, after teaching them and using them on my projects. The idioms we’ve found most useful, new Functional design patterns, best practices and anti-patterns.</description>
+    </item>
+    
+    <item>
+      <title>Rééduquez notre cerveau pour sortir de la crise écologique</title>
+      <link>https://tduperron.github.io/jnsq-partage/posts/reeduquez-notre-cerveau-pour-sortir-de-la-crise-ecologique/</link>
+      <pubDate>Tue, 24 Sep 2019 12:00:59 +0200</pubDate>
+      
+      <guid>https://tduperron.github.io/jnsq-partage/posts/reeduquez-notre-cerveau-pour-sortir-de-la-crise-ecologique/</guid>
+      <description>Sébastien Bohler est ingénieur, ancien élève de l’Ecole Polytechnique, et docteur en neurosciences, titulaire d’une thèse de l’université Pierre-et-Marie-Curie, préparée dans le laboratoire de Jean-Pierre Changeaux à l’Institut Pasteur, sur le fonctionnement des récepteurs neuronaux impliqués dans la dépendance à la nicotine.
+ En 2002, il participe à la création de la revue Cerveau &amp;amp; Psycho, consacrée aux neurosciences et à la psychologie, avant d’analyser successivement par ses chroniques les ressorts du cerveau humain dans des médias comme Arrêt sur Images, La Tête au Carré ou 28 minutes sur Arte.</description>
+    </item>
+    
+    <item>
+      <title>Spotify Engineering Culture - part 1 and 2</title>
+      <link>https://tduperron.github.io/jnsq-partage/posts/spotify-engineering-culture/</link>
+      <pubDate>Mon, 23 Sep 2019 08:20:36 +0200</pubDate>
+      
+      <guid>https://tduperron.github.io/jnsq-partage/posts/spotify-engineering-culture/</guid>
+      <description>Spotify explique dans cette vidéo l’évolution de son fonctionnement interne pour atteindre la Culture Agile
+ https://www.youtube.com/watch?v=Yvfz4HGtoPc
+ https://www.youtube.com/watch?v=vOt4BbWLWQw
+ </description>
+    </item>
+    
+    <item>
+      <title>Adopting Continuous Delivery</title>
+      <link>https://tduperron.github.io/jnsq-partage/posts/adopting-continuous-delivery/</link>
+      <pubDate>Mon, 09 Sep 2019 17:20:36 +0200</pubDate>
+      
+      <guid>https://tduperron.github.io/jnsq-partage/posts/adopting-continuous-delivery/</guid>
+      <description>How to reduce the risk of releases through implementing continuous integration and test and deployment automation?
+ How to implement these patterns even in complex, enterprise environments? Find out in Jez Humble&amp;#8217;s talk at the Lean IT Summit 2017.
+ Jez is the CTO of DevOps Research &amp;amp; Assessment LLC and co-author of &#34;Continuous Delivery&#34; and &#34;The DevOps Handbook&#34;.
+ https://www.youtube.com/watch?v=6DeWOrmvhRM
+ </description>
+    </item>
+    
+    <item>
+      <title>AutoML &#43; ML APIs = machine learning for all developers</title>
+      <link>https://tduperron.github.io/jnsq-partage/posts/machine-learning-for-all-developers/</link>
+      <pubDate>Fri, 30 Aug 2019 17:20:36 +0200</pubDate>
+      
+      <guid>https://tduperron.github.io/jnsq-partage/posts/machine-learning-for-all-developers/</guid>
+      <description>The Machine Learning field has seen so much progress lately that all developers can now build real-life smart ML-integrating applications, not only data scientists and ML researchers.
+ With pre-trained models and just a few lines of code, ML APIs can analyze or transform our data. Moreover, thanks to meta-learning techniques, Cloud AutoML can customize these models, solve more specific problems, and provide insights tailored to our own needs.
+ We&amp;#8217;ll explore what any developer can do today and we&amp;#8217;ll even try to build a custom model altogether in a live demo.</description>
+    </item>
+    
+  </channel>
+</rss>

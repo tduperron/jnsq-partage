@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>video-cancel on JNSQ Partagé</title>
+    <link>https://tduperron.github.io/jnsq-partage/categories/video-cancel/</link>
+    <description>Recent content in video-cancel on JNSQ Partagé</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 30 Aug 2019 17:20:36 +0200</lastBuildDate>
+    
+	<atom:link href="https://tduperron.github.io/jnsq-partage/categories/video-cancel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Building smarter apps with Machine Learning, from magic to reality</title>
+      <link>https://tduperron.github.io/jnsq-partage/posts/building-smarter-apps-with-ml/</link>
+      <pubDate>Fri, 30 Aug 2019 17:20:36 +0200</pubDate>
+      
+      <guid>https://tduperron.github.io/jnsq-partage/posts/building-smarter-apps-with-ml/</guid>
+      <description>Any sufficiently advanced technology is indistinguishable from magic (Arthur C Clarke). Well, Machine Learning can look like magic to most of us, but you don’t need to be a data scientist or an ML researcher to develop with ML. Let’s check it out!
+ What about making your app smarter without any knowledge in AI? With pre-trained models and a few lines of code, Machine Learning APIs can analyze your data.</description>
+    </item>
+    
+  </channel>
+</rss>

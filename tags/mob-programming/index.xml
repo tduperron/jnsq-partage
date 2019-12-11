@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mob Programming on JNSQ Partagé</title>
+    <link>https://tduperron.github.io/jnsq-partage/tags/mob-programming/</link>
+    <description>Recent content in Mob Programming on JNSQ Partagé</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 09 Sep 2019 12:00:59 +0200</lastBuildDate>
+    
+	<atom:link href="https://tduperron.github.io/jnsq-partage/tags/mob-programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mob Programming : je ne développerai plus jamais seul</title>
+      <link>https://tduperron.github.io/jnsq-partage/posts/mob-programming/</link>
+      <pubDate>Mon, 09 Sep 2019 12:00:59 +0200</pubDate>
+      
+      <guid>https://tduperron.github.io/jnsq-partage/posts/mob-programming/</guid>
+      <description>Chez Fluo, la première fois que nous avons entendu parler de mob programming nous étions un peu perplexes.
+ Dans une startup comme la notre, 5/6 développeurs à se partager un clavier ça semblait très curieux.
+ Un beau matin, histoire de débloquer deux de nos collègues coincés sur un dev, nous avons tout de même décidé d&amp;#8217;essayer.
+ Avec un rétro, nous avons alors projeté le code sur un écran.</description>
+    </item>
+    
+  </channel>
+</rss>

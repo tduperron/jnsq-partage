@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JNSQ Partagé</title>
+    <link>https://tduperron.github.io/jnsq-partage/</link>
+    <description>Recent content on JNSQ Partagé</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 27 Nov 2019 11:58:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://tduperron.github.io/jnsq-partage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rhétorique &amp; Eloquence: un devoir citoyen?</title>
+      <link>https://tduperron.github.io/jnsq-partage/posts/rhetorique_eloquence_un_devoir_citoyen/</link>
+      <pubDate>Wed, 27 Nov 2019 11:58:46 +0200</pubDate>
+      
+      <guid>https://tduperron.github.io/jnsq-partage/posts/rhetorique_eloquence_un_devoir_citoyen/</guid>
+      <description>Rhétorique &amp;amp; Eloquence: un devoir citoyen?
+ </description>
+    </item>
+    
+    <item>
+      <title>Contract first API with code generation</title>
+      <link>https://tduperron.github.io/jnsq-partage/posts/contract-first-api-with-code-generation/</link>
+      <pubDate>Mon, 25 Nov 2019 08:20:36 +0200</pubDate>
+      
+      <guid>https://tduperron.github.io/jnsq-partage/posts/contract-first-api-with-code-generation/</guid>
+      <description>Server and client generation from OpenApi spec.
+ </description>
+    </item>
+    
+    <item>
+      <title>Meecrowave</title>
+      <link>https://tduperron.github.io/jnsq-partage/posts/meecrowave/</link>
+      <pubDate>Thu, 14 Nov 2019 08:20:36 +0200</pubDate>
+      
+      <guid>https://tduperron.github.io/jnsq-partage/posts/meecrowave/</guid>
+      <description> Meecrowave   the customizable server
+   </description>
+    </item>
+    
+    <item>
+      <title>Leadership and learning are indispensable to each other</title>
+      <link>https://tduperron.github.io/jnsq-partage/posts/leadership-and-learning-are-indispensable-to-each-other/</link>
+      <pubDate>Wed, 16 Oct 2019 11:58:46 +0200</pubDate>
+      
+      <guid>https://tduperron.github.io/jnsq-partage/posts/leadership-and-learning-are-indispensable-to-each-other/</guid>
+      <description>Leadership and learning are indispensable to each other
+ Cette citation de JFK résume l&amp;#8217;intention de manière admirable mais dans cette présentation je propose de partager mes découvertes et ma vision après quelques recherches sur le leadership • Qu&amp;#8217;est ce donc? • Qu&amp;#8217;est ce qu&amp;#8217;être un leader? • Naissons nous leader ou pouvons nous le devenir? • &amp;#8230;&amp;#8203; Le discours n&amp;#8217;a pas la prétention d&amp;#8217;être exhaustif mais de partager mes trouvailles et surtout d&amp;#8217;en discuter afin de nous forger nos propres idées!</description>
+    </item>
+    
+    <item>
+      <title>Unit toolkit</title>
+      <link>https://tduperron.github.io/jnsq-partage/posts/unit-toolkit/</link>
+      <pubDate>Wed, 09 Oct 2019 08:20:36 +0200</pubDate>
+      
+      <guid>https://tduperron.github.io/jnsq-partage/posts/unit-toolkit/</guid>
+      <description>From junit 4 to junit 5 and more
+ </description>
+    </item>
+    
+    <item>
+      <title>Clean Code with Java8 4 years later</title>
+      <link>https://tduperron.github.io/jnsq-partage/posts/lean-code-with-java8-4-years-later/</link>
+      <pubDate>Tue, 01 Oct 2019 08:20:36 +0200</pubDate>
+      
+      <guid>https://tduperron.github.io/jnsq-partage/posts/lean-code-with-java8-4-years-later/</guid>
+      <description>You have a bazooka. Do you use it to show off or to clean up your code?
+ We all use Java8 Streams and lambdas. But is your code cleaner and easier to maintain than in Java7? Come and see what I’ve learned about what Clean Lambdas and Streams mean, after teaching them and using them on my projects. The idioms we’ve found most useful, new Functional design patterns, best practices and anti-patterns.</description>
+    </item>
+    
+    <item>
+      <title>Rééduquez notre cerveau pour sortir de la crise écologique</title>
+      <link>https://tduperron.github.io/jnsq-partage/posts/reeduquez-notre-cerveau-pour-sortir-de-la-crise-ecologique/</link>
+      <pubDate>Tue, 24 Sep 2019 12:00:59 +0200</pubDate>
+      
+      <guid>https://tduperron.github.io/jnsq-partage/posts/reeduquez-notre-cerveau-pour-sortir-de-la-crise-ecologique/</guid>
+      <description>Sébastien Bohler est ingénieur, ancien élève de l’Ecole Polytechnique, et docteur en neurosciences, titulaire d’une thèse de l’université Pierre-et-Marie-Curie, préparée dans le laboratoire de Jean-Pierre Changeaux à l’Institut Pasteur, sur le fonctionnement des récepteurs neuronaux impliqués dans la dépendance à la nicotine.
+ En 2002, il participe à la création de la revue Cerveau &amp;amp; Psycho, consacrée aux neurosciences et à la psychologie, avant d’analyser successivement par ses chroniques les ressorts du cerveau humain dans des médias comme Arrêt sur Images, La Tête au Carré ou 28 minutes sur Arte.</description>
+    </item>
+    
+    <item>
+      <title>Spotify Engineering Culture - part 1 and 2</title>
+      <link>https://tduperron.github.io/jnsq-partage/posts/spotify-engineering-culture/</link>
+      <pubDate>Mon, 23 Sep 2019 08:20:36 +0200</pubDate>
+      
+      <guid>https://tduperron.github.io/jnsq-partage/posts/spotify-engineering-culture/</guid>
+      <description>Spotify explique dans cette vidéo l’évolution de son fonctionnement interne pour atteindre la Culture Agile
+ https://www.youtube.com/watch?v=Yvfz4HGtoPc
+ https://www.youtube.com/watch?v=vOt4BbWLWQw
+ </description>
+    </item>
+    
+    <item>
+      <title>Adopting Continuous Delivery</title>
+      <link>https://tduperron.github.io/jnsq-partage/posts/adopting-continuous-delivery/</link>
+      <pubDate>Mon, 09 Sep 2019 17:20:36 +0200</pubDate>
+      
+      <guid>https://tduperron.github.io/jnsq-partage/posts/adopting-continuous-delivery/</guid>
+      <description>How to reduce the risk of releases through implementing continuous integration and test and deployment automation?
+ How to implement these patterns even in complex, enterprise environments? Find out in Jez Humble&amp;#8217;s talk at the Lean IT Summit 2017.
+ Jez is the CTO of DevOps Research &amp;amp; Assessment LLC and co-author of &#34;Continuous Delivery&#34; and &#34;The DevOps Handbook&#34;.
+ https://www.youtube.com/watch?v=6DeWOrmvhRM
+ </description>
+    </item>
+    
+    <item>
+      <title>Mob Programming : je ne développerai plus jamais seul</title>
+      <link>https://tduperron.github.io/jnsq-partage/posts/mob-programming/</link>
+      <pubDate>Mon, 09 Sep 2019 12:00:59 +0200</pubDate>
+      
+      <guid>https://tduperron.github.io/jnsq-partage/posts/mob-programming/</guid>
+      <description>Chez Fluo, la première fois que nous avons entendu parler de mob programming nous étions un peu perplexes.
+ Dans une startup comme la notre, 5/6 développeurs à se partager un clavier ça semblait très curieux.
+ Un beau matin, histoire de débloquer deux de nos collègues coincés sur un dev, nous avons tout de même décidé d&amp;#8217;essayer.
+ Avec un rétro, nous avons alors projeté le code sur un écran.</description>
+    </item>
+    
+    <item>
+      <title>L&#39;art de motive part 1</title>
+      <link>https://tduperron.github.io/jnsq-partage/posts/l-art-de-motive-part-1/</link>
+      <pubDate>Mon, 09 Sep 2019 11:58:46 +0200</pubDate>
+      
+      <guid>https://tduperron.github.io/jnsq-partage/posts/l-art-de-motive-part-1/</guid>
+      <description>L&amp;#8217;art de motive la théorie
+ </description>
+    </item>
+    
+    <item>
+      <title>L&#39;art de motive part 1</title>
+      <link>https://tduperron.github.io/jnsq-partage/posts/l-art-de-motive-part-2/</link>
+      <pubDate>Mon, 09 Sep 2019 11:58:46 +0200</pubDate>
+      
+      <guid>https://tduperron.github.io/jnsq-partage/posts/l-art-de-motive-part-2/</guid>
+      <description>L&amp;#8217;art de motive la pratique
+ </description>
+    </item>
+    
+    <item>
+      <title>Conscious listening</title>
+      <link>https://tduperron.github.io/jnsq-partage/posts/conscious-listening/</link>
+      <pubDate>Fri, 30 Aug 2019 18:20:36 +0200</pubDate>
+      
+      <guid>https://tduperron.github.io/jnsq-partage/posts/conscious-listening/</guid>
+      <description>Conscious listening
+ </description>
+    </item>
+    
+    <item>
+      <title>Les biais cognitifs part 1</title>
+      <link>https://tduperron.github.io/jnsq-partage/posts/les-biais-cognitifs-/</link>
+      <pubDate>Fri, 30 Aug 2019 18:20:36 +0200</pubDate>
+      
+      <guid>https://tduperron.github.io/jnsq-partage/posts/les-biais-cognitifs-/</guid>
+      <description>Les biais cognitifs présentation des biais
+ </description>
+    </item>
+    
+    <item>
+      <title>AutoML &#43; ML APIs = machine learning for all developers</title>
+      <link>https://tduperron.github.io/jnsq-partage/posts/machine-learning-for-all-developers/</link>
+      <pubDate>Fri, 30 Aug 2019 17:20:36 +0200</pubDate>
+      
+      <guid>https://tduperron.github.io/jnsq-partage/posts/machine-learning-for-all-developers/</guid>
+      <description>The Machine Learning field has seen so much progress lately that all developers can now build real-life smart ML-integrating applications, not only data scientists and ML researchers.
+ With pre-trained models and just a few lines of code, ML APIs can analyze or transform our data. Moreover, thanks to meta-learning techniques, Cloud AutoML can customize these models, solve more specific problems, and provide insights tailored to our own needs.
+ We&amp;#8217;ll explore what any developer can do today and we&amp;#8217;ll even try to build a custom model altogether in a live demo.</description>
+    </item>
+    
+    <item>
+      <title>Building smarter apps with Machine Learning, from magic to reality</title>
+      <link>https://tduperron.github.io/jnsq-partage/posts/building-smarter-apps-with-ml/</link>
+      <pubDate>Fri, 30 Aug 2019 17:20:36 +0200</pubDate>
+      
+      <guid>https://tduperron.github.io/jnsq-partage/posts/building-smarter-apps-with-ml/</guid>
+      <description>Any sufficiently advanced technology is indistinguishable from magic (Arthur C Clarke). Well, Machine Learning can look like magic to most of us, but you don’t need to be a data scientist or an ML researcher to develop with ML. Let’s check it out!
+ What about making your app smarter without any knowledge in AI? With pre-trained models and a few lines of code, Machine Learning APIs can analyze your data.</description>
+    </item>
+    
+    <item>
+      <title>Matinale Accelerate : la vitesse conditionne l&#39;excellence</title>
+      <link>https://tduperron.github.io/jnsq-partage/posts/matinale_accelerate_la_vitesse_conditionne_l_excellence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tduperron.github.io/jnsq-partage/posts/matinale_accelerate_la_vitesse_conditionne_l_excellence/</guid>
+      <description>Pendant plusieurs années, une étude sur la performance des entreprises a été menée. Résultat ? L&amp;#8217;étude &#34;Accelerate&#34; démontre que la stabilité et la vitesse dans le Delivery Logiciel sont deux qualités qui se renforcent mutuellement au lieu de s&amp;#8217;opposer. Découvrez comment et pourquoi .
+ </description>
+    </item>
+    
+  </channel>
+</rss>

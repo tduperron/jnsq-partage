@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java8 on JNSQ Partagé</title>
+    <link>https://tduperron.github.io/jnsq-partage/tags/java8/</link>
+    <description>Recent content in Java8 on JNSQ Partagé</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 01 Oct 2019 08:20:36 +0200</lastBuildDate>
+    
+	<atom:link href="https://tduperron.github.io/jnsq-partage/tags/java8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Clean Code with Java8 4 years later</title>
+      <link>https://tduperron.github.io/jnsq-partage/posts/lean-code-with-java8-4-years-later/</link>
+      <pubDate>Tue, 01 Oct 2019 08:20:36 +0200</pubDate>
+      
+      <guid>https://tduperron.github.io/jnsq-partage/posts/lean-code-with-java8-4-years-later/</guid>
+      <description>You have a bazooka. Do you use it to show off or to clean up your code?
+ We all use Java8 Streams and lambdas. But is your code cleaner and easier to maintain than in Java7? Come and see what I’ve learned about what Clean Lambdas and Streams mean, after teaching them and using them on my projects. The idioms we’ve found most useful, new Functional design patterns, best practices and anti-patterns.</description>
+    </item>
+    
+  </channel>
+</rss>
