@@ -2,7 +2,7 @@
 title: "Les biais cognitifs part 1"
 date: 2019-08-30T18:20:36+02:00
 draft: false
-categories: ["prez"]
+categories: ["prez-done"]
 author: Guillaume Blondeau
 ---
 
